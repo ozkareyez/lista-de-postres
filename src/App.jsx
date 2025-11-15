@@ -6,12 +6,9 @@ export function App() {
   return (
     <main className="flex justify-center">
       <section className="my-6">
-        {/* <h1 className="text-[2.5rem] font-bold mb-[30px]">Desserts</h1> */}
-        <img
-          className="size-[180px] ml-16  md:size-[200px] "
-          src="/public/assets/images/logo.png"
-          alt=""
-        />
+        <h1 className="text-[3.5rem] font-bold mb-[30px] text-amber-700">
+          Postres
+        </h1>
 
         <div className="xl:flex xl:gap-6 xl:items-start">
           <CardsContainer />

@@ -1,5 +1,5 @@
 import { ProductoContainer } from "./ProductoContainer";
-
+import data from "../data.json";
 import { useCartStore } from "../Store/cartStore";
 
 export const CardsContainer = () => {
