@@ -15,7 +15,7 @@ export function App() {
 
         <div className="xl:flex xl:gap-6 xl:items-start">
           <CardsContainer />
-          <Card/>
+          <Card />
         </div>
       </section>
       <CartConfirmacion />
