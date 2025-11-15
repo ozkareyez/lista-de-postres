@@ -1,5 +1,5 @@
 import { CardsContainer } from "./Componentes/CardsContainer";
-import { Card } from "./Componentes/card";
+import { Card } from "./Componentes/Card";
 import { CartConfirmacion } from "./Componentes/CartConfirmacion";
 
 export function App() {
