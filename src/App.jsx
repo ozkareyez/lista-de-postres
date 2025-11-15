@@ -1,5 +1,5 @@
 import { CardsContainer } from "./Componentes/CardsContainer";
-import { Card } from "./Componentes/card";
+import { Card } from "./Componentes/Card";
 import { CartConfirmacion } from "./Componentes/CartConfirmacion";
 
 export function App() {
@@ -15,7 +15,7 @@ export function App() {
 
         <div className="xl:flex xl:gap-6 xl:items-start">
           <CardsContainer />
-          <Card />
+          <Card/>
         </div>
       </section>
       <CartConfirmacion />
